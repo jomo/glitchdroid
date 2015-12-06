@@ -1,0 +1,4 @@
+# width, height, fps
+768 1280 20
+# repeat, pause, dirname
+p 0 0 part0
